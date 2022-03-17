@@ -4,3 +4,11 @@ Crime detection Software Project done for my SEPM project in SRM 2nd year
 - Abhijit (Project Manager)
 - K V Sravan
 - C H Chanikya
+
+## <ins> Saved Reply for Issues </ins> 
+Date : 
+Day : 
+#### <ins> Updates Made </ins> :
+-
+-
+-
