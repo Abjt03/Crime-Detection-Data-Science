@@ -9,7 +9,4 @@ Crime detection Software Project done for my SEPM project in SRM 2nd year
 Date : 
 <br>
 Day : 
-#### <ins> Updates Made </ins> :
-- 
--
--
+
